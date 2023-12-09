@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{A0323131-FC80-4237-AAB2-659E8E94F678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphores", "Semaphores\Semaphores.csproj", "{E33A01CB-5D7D-41D5-B88E-F7A4B66BF41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0323131-FC80-4237-AAB2-659E8E94F678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0323131-FC80-4237-AAB2-659E8E94F678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0323131-FC80-4237-AAB2-659E8E94F678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0323131-FC80-4237-AAB2-659E8E94F678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33A01CB-5D7D-41D5-B88E-F7A4B66BF41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33A01CB-5D7D-41D5-B88E-F7A4B66BF41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33A01CB-5D7D-41D5-B88E-F7A4B66BF41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33A01CB-5D7D-41D5-B88E-F7A4B66BF41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
